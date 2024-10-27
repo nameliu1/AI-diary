@@ -1,0 +1,2 @@
+
+#pip install streamlit langchain sentence-transformers

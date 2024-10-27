@@ -1,1 +1,11 @@
-# AI-diary
+# Chat with Your Diary
+
+这是一个基于 Streamlit 的日记助手应用，可以根据用户的问题提供日记内容的相似度分析。
+
+## 安装
+
+1. 克隆这个项目
+2. 创建并激活虚拟环境
+3. 安装依赖：
+   ```bash
+   pip install -r requirements.txt
